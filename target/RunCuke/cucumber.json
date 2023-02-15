@@ -1,0 +1,450 @@
+[
+  {
+    "line": 2,
+    "elements": [
+      {
+        "before": [
+          {
+            "result": {
+              "duration": 6248547600,
+              "status": "passed"
+            },
+            "match": {
+              "location": "Hooks.setUp()"
+            }
+          }
+        ],
+        "line": 4,
+        "name": "anAustralianCominToUKForTourism",
+        "description": "",
+        "id": "visa-test;anaustraliancomintoukfortourism",
+        "after": [
+          {
+            "result": {
+              "duration": 839469600,
+              "status": "passed"
+            },
+            "match": {
+              "location": "Hooks.tearDown(Scenario)"
+            }
+          }
+        ],
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "duration": 191775900,
+              "status": "passed"
+            },
+            "line": 5,
+            "name": "I am on Homepage",
+            "match": {
+              "location": "VisaConirmationTest.iAmOnHomepage()"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 143639700,
+              "status": "passed"
+            },
+            "line": 6,
+            "name": "I accept all cookie",
+            "match": {
+              "location": "VisaConirmationTest.iAcceptAllCookie()"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 451165100,
+              "status": "passed"
+            },
+            "line": 7,
+            "name": "I click on Start Now",
+            "match": {
+              "location": "VisaConirmationTest.iClickOnStartNow()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 172675900,
+              "status": "passed"
+            },
+            "line": 8,
+            "name": "I select country as Australia",
+            "match": {
+              "location": "VisaConirmationTest.iSelectCountryAsAustralia()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 327985600,
+              "status": "passed"
+            },
+            "line": 9,
+            "name": "I click on Continue button",
+            "match": {
+              "location": "VisaConirmationTest.iClickOnContinueButton()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 103867400,
+              "status": "passed"
+            },
+            "line": 10,
+            "name": "I select reason",
+            "match": {
+              "location": "VisaConirmationTest.iSelectReason()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 308978100,
+              "status": "passed"
+            },
+            "line": 11,
+            "name": "I click on next button",
+            "match": {
+              "location": "VisaConirmationTest.iClickOnNextButton()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 52363100,
+              "status": "passed"
+            },
+            "line": 12,
+            "name": "I should verify Result",
+            "match": {
+              "location": "VisaConirmationTest.iShouldVerifyResult()"
+            },
+            "keyword": "Then "
+          }
+        ]
+      },
+      {
+        "before": [
+          {
+            "result": {
+              "duration": 3190363300,
+              "status": "passed"
+            },
+            "match": {
+              "location": "Hooks.setUp()"
+            }
+          }
+        ],
+        "line": 14,
+        "name": "aChileanComingToTheUKForWorkAndPlansOnStayingForLongerThanSixMonths",
+        "description": "",
+        "id": "visa-test;achileancomingtotheukforworkandplansonstayingforlongerthansixmonths",
+        "after": [
+          {
+            "result": {
+              "duration": 731921000,
+              "status": "passed"
+            },
+            "match": {
+              "location": "Hooks.tearDown(Scenario)"
+            }
+          }
+        ],
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "duration": 29600,
+              "status": "passed"
+            },
+            "line": 15,
+            "name": "I am on Homepage",
+            "match": {
+              "location": "VisaConirmationTest.iAmOnHomepage()"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 122381600,
+              "status": "passed"
+            },
+            "line": 16,
+            "name": "I accept all cookie",
+            "match": {
+              "location": "VisaConirmationTest.iAcceptAllCookie()"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 373928600,
+              "status": "passed"
+            },
+            "line": 17,
+            "name": "I click on Start Now",
+            "match": {
+              "location": "VisaConirmationTest.iClickOnStartNow()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 199960200,
+              "status": "passed"
+            },
+            "line": 18,
+            "name": "I select country as Chile",
+            "match": {
+              "location": "VisaConirmationTest.iSelectCountryAsChile()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 350281700,
+              "status": "passed"
+            },
+            "line": 19,
+            "name": "I click on Continue button",
+            "match": {
+              "location": "VisaConirmationTest.iClickOnContinueButton()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 79067000,
+              "status": "passed"
+            },
+            "line": 20,
+            "name": "I select reason work or business",
+            "match": {
+              "location": "VisaConirmationTest.iSelectReasonWorkOrBusiness()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 295593900,
+              "status": "passed"
+            },
+            "line": 21,
+            "name": "I click on next button",
+            "match": {
+              "location": "VisaConirmationTest.iClickOnNextButton()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 80040900,
+              "status": "passed"
+            },
+            "line": 22,
+            "name": "I click on duration option",
+            "match": {
+              "location": "VisaConirmationTest.iClickOnDurationOption()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 293829900,
+              "status": "passed"
+            },
+            "line": 23,
+            "name": "I click on next button",
+            "match": {
+              "location": "VisaConirmationTest.iClickOnNextButton()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 81361900,
+              "status": "passed"
+            },
+            "line": 24,
+            "name": "I select Job type",
+            "match": {
+              "location": "VisaConirmationTest.iSelectJobType()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 459343200,
+              "status": "passed"
+            },
+            "line": 25,
+            "name": "I click on next button",
+            "match": {
+              "location": "VisaConirmationTest.iClickOnNextButton()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 53546900,
+              "status": "passed"
+            },
+            "line": 26,
+            "name": "I should verify Result for visa",
+            "match": {
+              "location": "VisaConirmationTest.iShouldVerifyResultForVisa()"
+            },
+            "keyword": "Then "
+          }
+        ]
+      },
+      {
+        "before": [
+          {
+            "result": {
+              "duration": 2403197100,
+              "status": "passed"
+            },
+            "match": {
+              "location": "Hooks.setUp()"
+            }
+          }
+        ],
+        "line": 28,
+        "name": "aColumbianNationalComingToTheUKToJoinAPartnerForALongStayTheyDoHaveAnArticle10Or20Card",
+        "description": "",
+        "id": "visa-test;acolumbiannationalcomingtotheuktojoinapartnerforalongstaytheydohaveanarticle10or20card",
+        "after": [
+          {
+            "result": {
+              "duration": 779899800,
+              "status": "passed"
+            },
+            "match": {
+              "location": "Hooks.tearDown(Scenario)"
+            }
+          }
+        ],
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "duration": 33400,
+              "status": "passed"
+            },
+            "line": 29,
+            "name": "I am on Homepage",
+            "match": {
+              "location": "VisaConirmationTest.iAmOnHomepage()"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 136254500,
+              "status": "passed"
+            },
+            "line": 30,
+            "name": "I accept all cookie",
+            "match": {
+              "location": "VisaConirmationTest.iAcceptAllCookie()"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 437117500,
+              "status": "passed"
+            },
+            "line": 31,
+            "name": "I click on Start Now",
+            "match": {
+              "location": "VisaConirmationTest.iClickOnStartNow()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 158182800,
+              "status": "passed"
+            },
+            "line": 32,
+            "name": "I select country as Colombia",
+            "match": {
+              "location": "VisaConirmationTest.iSelectCountryAsColombia()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 328802400,
+              "status": "passed"
+            },
+            "line": 33,
+            "name": "I click on Continue button",
+            "match": {
+              "location": "VisaConirmationTest.iClickOnContinueButton()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 74597900,
+              "status": "passed"
+            },
+            "line": 34,
+            "name": "I select reason join partner or family",
+            "match": {
+              "location": "VisaConirmationTest.iSelectReasonJoinPartnerOrFamily()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 324146100,
+              "status": "passed"
+            },
+            "line": 35,
+            "name": "I click on next button",
+            "match": {
+              "location": "VisaConirmationTest.iClickOnNextButton()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 40135000,
+              "status": "passed"
+            },
+            "line": 36,
+            "name": "I should verify Result page",
+            "match": {
+              "location": "VisaConirmationTest.iShouldVerifyResultPage()"
+            },
+            "keyword": "Then "
+          }
+        ]
+      }
+    ],
+    "name": "Visa Test",
+    "description": "",
+    "id": "visa-test",
+    "keyword": "Feature",
+    "uri": "visa.feature",
+    "tags": [
+      {
+        "line": 1,
+        "name": "@Regression"
+      }
+    ]
+  }
+]
